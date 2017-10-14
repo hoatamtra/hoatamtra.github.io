@@ -229,6 +229,11 @@ html{
 	padding-bottom: 0;
 }
 
+.banner-text2{
+	top:30%;
+	
+}
+
 .htt-text{
 	width: 480px;
 	height: auto;
@@ -824,6 +829,14 @@ padding-left: 0;
 		font-size: 2rem;
 	}
 
+	.khampha{
+		font-size: 1.5rem !important;
+	}
+
+	.xemngay{
+		font-size: 1rem;
+	}
+
 
 }
 
@@ -945,6 +958,14 @@ padding-left: 0;
 
 	.tieude-danhmuc a{
 		font-size: 12px;
+	}
+
+	.khampha{
+		font-size: 2rem;
+	}
+
+	.banner-text2{
+		top: 25%;
 	}
 
 }
