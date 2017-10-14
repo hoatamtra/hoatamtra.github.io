@@ -1,0 +1,17 @@
+*{
+	margin: 0; padding: 0;
+	box-sizing: border-box;
+} 
+
+
+/*css cho khối ảnh*/
+
+.trangthuvien{
+	background-color: #f9f9f9;
+}
+
+.anhthuvien{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+

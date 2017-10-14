@@ -1,0 +1,35 @@
+
+
+/*css riêng cho các bài viết*/
+
+.tieudetin{
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+.binhluan{
+	font-size: 30px;
+	display: inline-block;
+
+}
+
+.title-tinkhac{
+	border-left: 5px solid #643e3b;
+	padding-left: 10px;
+	font-size: 25px;
+	height: 30px;
+}
+
+.tieudetin h5{
+	line-height: 25px;
+	font-weight: 300 !important;
+}
+
+.baiviet1{
+	padding-bottom: 70px;
+}
+
+.tacgia{
+	padding-top: 10px;
+}
