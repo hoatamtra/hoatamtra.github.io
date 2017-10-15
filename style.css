@@ -835,6 +835,11 @@ padding-left: 0;
 
 	.xemngay{
 		font-size: 0.8rem;
+		padding-top: 0 !important;
+	}
+
+	.banner-text2{
+		top: 14% !important;
 	}
 
 
